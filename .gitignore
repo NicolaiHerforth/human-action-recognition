@@ -1,0 +1,14 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+# Zip file
+*.zip
+
+# DNN log
+DNN_log/
+
+# settings
+.vscode/settings.json
