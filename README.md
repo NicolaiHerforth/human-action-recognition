@@ -1,5 +1,7 @@
 # Mini-project 3: 
-### Test
+### Paper https://afribary.com/works/human-activity-recognition-by-wearable-sensors/read
+
+### Project Explanation
 In the 3rd mini-project, we will look at the problem of human action recognition from wearable sensor data. We will analyse the labelled data se from a mobile phone containing an accelerometer and gyroscope.
 In the mini-project, you will implement a method that is able to classify a person's action into six pre-defined classes and evaluate the performance of the method.
 
